@@ -5,3 +5,4 @@ General utilities
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
 
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
+- [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
