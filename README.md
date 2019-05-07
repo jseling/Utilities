@@ -7,3 +7,4 @@ General utilities
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
 - [JSON Pizza - Formatter](https://json.pizza/)
+- [ripgrep search text tool used in VSCode](https://blog.burntsushi.net/ripgrep/)
