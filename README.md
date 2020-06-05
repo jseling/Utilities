@@ -13,3 +13,5 @@ General utilities
 
 - [YouGlish: Use youtube to improve pronunciation](https://youglish.com/)
 - :star:[FREE ONLINE IMAGE EDITING TOOLS](https://imageonline.co/)
+
+- [All VSCode Shortcuts for MacOS, Linux and Windows](https://vscode-shortcuts.com/)
