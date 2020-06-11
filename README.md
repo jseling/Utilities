@@ -26,6 +26,8 @@ General utilities
 ### PDF Tools
 - [iLovePDF](https://www.ilovepdf.com/pt)
 - [PDF Check](http://pdf-analyser.edpsciences.org/check)
+- [PDF Validator](https://www.pdf-online.com/osa/validate.aspx)
+- [Winking PDF Analyzer](https://www.winking.be/en/products/pdfanalyzer)
 
 ### Time management
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
