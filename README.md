@@ -25,6 +25,7 @@ General utilities
 
 ### PDF Tools
 - [iLovePDF](https://www.ilovepdf.com/pt)
+- [PDF Check](http://pdf-analyser.edpsciences.org/check)
 
 ### Time management
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
