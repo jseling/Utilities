@@ -23,6 +23,9 @@ General utilities
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
 
+### PDF Tools
+- [iLovePDF](https://www.ilovepdf.com/pt)
+
 ### Time management
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
 
