@@ -10,7 +10,7 @@ General utilities
 - [ripgrep search text tool used in VSCode](https://blog.burntsushi.net/ripgrep/)
 
 - [Base64.Guru](https://base64.guru/converter/encode/hex)
-- [Free online text compression tools - gzip, bzip2 and deflate.](http://txtwizard.net/compression)
+- [Free online text compression tools - gzip, bzip2 and deflate.](http://txtwizard.net)
 
 - :star:[Quaternius: Free 3d low poly game assets](http://quaternius.com/assets.html)
 
