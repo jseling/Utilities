@@ -30,6 +30,8 @@ General utilities
 - [Winking PDF Analyzer](https://www.winking.be/en/products/pdfanalyzer)
 
 ### Time management
+- [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
+- [Between Workaholism & Procrastination](https://www.jamalx31.com/post/between-workaholism-procrastination)
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
 
 ## Resources
