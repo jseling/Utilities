@@ -24,6 +24,7 @@ General utilities
 - [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
 
 ### PDF Tools
+- :star:[PDF24 Tools: Ferramentas PDF gratuitas e fáceis de usar online](https://tools.pdf24.org/pt/)
 - [iLovePDF](https://www.ilovepdf.com/pt)
 - [PDF Check](http://pdf-analyser.edpsciences.org/check)
 - [PDF Validator](https://www.pdf-online.com/osa/validate.aspx)
