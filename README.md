@@ -37,6 +37,9 @@ General utilities
 
 ## Resources
 
+### Icons
+- [550+ customizable (size, color, stroke) open-source SVG icons for web developers](https://tablericons.com/)
+
 ### 3D Models
 - :star:[Quaternius: Free 3d low poly game assets](http://quaternius.com/assets.html)
 - [Top free](https://itch.io/game-assets/free/tag-low-poly)
