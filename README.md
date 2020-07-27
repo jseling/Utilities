@@ -8,6 +8,7 @@ General utilities
 ## Documents and Tech Articles
 - [ripgrep search text tool used in VSCode](https://blog.burntsushi.net/ripgrep/)
 - [All VSCode Shortcuts for MacOS, Linux and Windows](https://vscode-shortcuts.com/)
+- [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
 
 ## Online Tools
 ### Converters and Calculators
