@@ -4,6 +4,8 @@ General utilities
 ## Personal improvement
 - [Dificuldade para manter o foco? Talvez um tomate resolva](https://drgarcia1986.wordpress.com/2013/03/22/dificuldade-para-manter-o-foco-talvez-um-tomate-resolva/)
 - [YouGlish: Use youtube to improve pronunciation](https://youglish.com/)
+- [How to remember the IPA vowel chart](https://allthingslinguistic.com/post/67308552090/how-to-remember-the-ipa-vowel-chart)
+- [IPA Chart with sounds](https://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
 
 ## Documents and Tech Articles
 - [ripgrep search text tool used in VSCode](https://blog.burntsushi.net/ripgrep/)
