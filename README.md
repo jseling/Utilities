@@ -17,6 +17,7 @@ General utilities
 - [Base64.Guru](https://base64.guru/converter/encode/hex)
 - [Free online text compression tools - gzip, bzip2 and deflate.](http://txtwizard.net)
 - [Online Calculators & Tools](https://www.rapidtables.com/)
+- :star:[Image converter: IMGonline.com.ua](https://www.imgonline.com.ua/eng/)
 
 ### Formaters
 - [JSON Pizza - Formatter](https://json.pizza/)
