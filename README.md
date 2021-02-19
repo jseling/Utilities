@@ -40,6 +40,7 @@ General utilities
 - [Between Workaholism & Procrastination](https://www.jamalx31.com/post/between-workaholism-procrastination)
 - [Procrastinating the procrastination](https://medium.com/@naveenrtr/procrastinating-the-procrastination-4c9dee48d1b3)
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
+- [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
 
 ## Resources
 
