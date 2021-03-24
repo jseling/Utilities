@@ -28,6 +28,9 @@ General utilities
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
 
+## Video recording
+- [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video](https://www.ffmpeg.org/)
+
 ### PDF Tools
 - :star:[PDF24 Tools: Ferramentas PDF gratuitas e fáceis de usar online](https://tools.pdf24.org/pt/)
 - [iLovePDF](https://www.ilovepdf.com/pt)
