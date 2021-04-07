@@ -31,6 +31,9 @@ General utilities
 ## Video recording
 - [FFmpeg - A complete, cross-platform solution to record, convert and stream audio and video](https://www.ffmpeg.org/)
 
+Conversão de vídeo
+ffmpeg.exe -i '.\Video 2 - 1414221.wmv' '.\Video 2 - 1414221.asf'
+
 ### PDF Tools
 - :star:[PDF24 Tools: Ferramentas PDF gratuitas e fáceis de usar online](https://tools.pdf24.org/pt/)
 - [iLovePDF](https://www.ilovepdf.com/pt)
