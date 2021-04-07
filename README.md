@@ -34,6 +34,16 @@ General utilities
 Conversão de vídeo
 ffmpeg.exe -i '.\Video 2 - 1414221.wmv' '.\Video 2 - 1414221.asf'
 
+Grava Tela_Especifica
+ffmpeg -f gdigrab -framerate 30 -draw_mouse 1 -i title=Tela_Especifica -r 12 -crf 30 -preset ultrafast "d:\temp\recording-$(get-date -f yyyy-MM-dd-Hmss).mp4"
+
+grava monitor principal
+ffmpeg -f gdigrab -video_size 1920x1080 -framerate 30 -draw_mouse 1 -i desktop -r 12 -crf 30 -preset ultrafast "d:\temp\recording-$(get-date -f yyyy-MM-dd-Hmss).mp4"
+ 
+grava monitor da esquerda
+ffmpeg -f gdigrab -offset_x -1920 -offset_y 0 -video_size 3800x1080 -framerate 30 -draw_mouse 1 -i desktop -r 12 -crf 30 -preset ultrafast "d:\temp\recording-$(get-date -f yyyy-MM-dd-Hmss).mp4"
+
+
 ### PDF Tools
 - :star:[PDF24 Tools: Ferramentas PDF gratuitas e fáceis de usar online](https://tools.pdf24.org/pt/)
 - [iLovePDF](https://www.ilovepdf.com/pt)
