@@ -12,6 +12,7 @@ General utilities
 - [All VSCode Shortcuts for MacOS, Linux and Windows](https://vscode-shortcuts.com/)
 - [Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners](https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)
 - [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+- [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
 
 ## Online Tools
 ### Converters and Calculators
