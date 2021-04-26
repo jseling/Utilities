@@ -58,6 +58,7 @@ ffmpeg -f gdigrab -offset_x -1920 -offset_y 0 -video_size 3800x1080 -framerate 3
 - [Procrastinating the procrastination](https://medium.com/@naveenrtr/procrastinating-the-procrastination-4c9dee48d1b3)
 - [Web TomatoTimer for Pomodoro time management](https://tomato-timer.com/)
 - [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
+- [Brain Time vs. Butt Time: Improve Developer Productivity](https://dzone.com/articles/brain-time-vs-butt-time-improve-developer-producti)
 
 ## Resources
 
