@@ -25,7 +25,7 @@ General utilities
 - [JSON Pizza - Formatter](https://json.pizza/)
 
 ### Image and graph editors
-- [Excalidraw: Online whiteboard. Draw like a hand draw](https://excalidraw.com/)
+- :star:[Excalidraw: Online whiteboard. Draw like a hand draw](https://excalidraw.com/)
 - :star:[FREE ONLINE IMAGE EDITING TOOLS](https://imageonline.co/)
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [SVG Editor/Viewer Online](https://www.freecodeformat.com/svg-editor.php)
