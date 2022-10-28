@@ -21,6 +21,9 @@ General utilities
 - [Online Calculators & Tools](https://www.rapidtables.com/)
 - :star:[Image converter: IMGonline.com.ua](https://www.imgonline.com.ua/eng/)
 
+## Imagem GAN restoration
+- [Photo restoration with GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
+
 ### Formaters
 - [JSON Pizza - Formatter](https://json.pizza/)
 
